@@ -1,4 +1,4 @@
-# Multiplatform Compose App
+# Multiplatform Compose App 
 
 Welcome to the repository for our Kotlin Multiplatform app! This app is built using Jetpack Compose for UI development, following MVVM architecture and incorporating best practices for clean architecture.
 
